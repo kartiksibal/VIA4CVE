@@ -5,7 +5,7 @@
 VIA4CVE is an aggregator of the known vendor vulnerabilities database to support the expansion
 of information with CVEs. VIA4CVE is a companion to [cve-search](https://github.com/cve-search/cve-search).
 
-VIA4CVE generates a compiled JSON file containing the CVE which all the known references.
+VIA4CVE generates a compiled JSON file containing CVEs with all known references.
 
 ## References
 
